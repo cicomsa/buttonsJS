@@ -10,3 +10,6 @@ Pick and remove colours as you wish. Mind that all your actions will be printed 
 
 * To get buttons' values and display them on the screen using JS
 
+### To run the project
+
+* Run ```open pickColour.html```
