@@ -1,6 +1,6 @@
 # buttonsJS
 
-## Pick a colour
+## PickColour
 
 ### Project description
 
@@ -13,3 +13,17 @@ Pick and remove colours as you wish. Mind that all your actions will be printed 
 ### To run the project
 
 * Run ```open pickColour.html```
+
+## SelectAndReset
+
+### Project description
+
+Select numbers and letters to only be able to reset them :)
+
+### Project goals
+
+* To manipulate CSS style using JS
+
+### To run the project
+
+* Run ```open selectAndReset.html```
