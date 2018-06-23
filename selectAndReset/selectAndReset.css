@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  font-size: 7.5vh;
+  margin-bottom: 7%;
+}
+
+.number,
+.letter,
+.reset {
+  text-align: center;
+  font-size: 4vh;
+}
+
+.pickButton {
+  background-color: #eef9ea;
+}
+
+#resetButton {
+  width: 20%;
+  height: 40px;
+  font-size: 1.9vh;
+  border-radius: 5px;
+  border: none;
+  background-color: #fcf5f4;
+  margin-top: 1%;
+}
