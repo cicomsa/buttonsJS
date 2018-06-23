@@ -8,7 +8,7 @@ Pick and remove colours as you wish. Mind that all your actions will be printed 
 
 ### Project goals
 
-* To get buttons' values and display them on the screen using JS
+* To get buttons' values and display them on the screen using Javascript
 
 ### To run the project
 
@@ -22,7 +22,7 @@ Select numbers and letters to only be able to reset them :)
 
 ### Project goals
 
-* To manipulate CSS style using JS
+* To manipulate CSS with Javascript
 
 ### To run the project
 
