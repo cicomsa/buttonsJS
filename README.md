@@ -18,7 +18,7 @@ Pick and remove colours as you wish. Mind that all your actions will be printed 
 
 ### Project description
 
-Select numbers and letters to only be able to reset them :)
+Select numbers and letters to only be able to reset them. :)
 
 ### Project goals
 
